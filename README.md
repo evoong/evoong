@@ -48,7 +48,7 @@ May 2021 - August 2021
 **Data Analyst**  
 <a href="https://www.bellmedia.ca/">
   <img src="https://seeklogo.com/images/B/Bell_Canada-logo-F3FBD37116-seeklogo.com.png" alt="Bell Media Logo" width="30">
-</a> [*Bell Media*](https://www.bellmedia.ca/) 
+</a> *Bell Media*
 January 2020 - August 2020  
 - Deployed ETL pipelines and automation workflows in **SQL** on GCP, reducing operational time by 25%
 - Created data-driven marketing reports with **Tableau** and **Looker**, increasing campaign efficiency by 20%
