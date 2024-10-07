@@ -6,5 +6,5 @@
 
 📊 Check out my repositories for projects involving machine learning, NLP, web scraping, and more!
 
-## 📄 Download My Resume
+# 📄 Download My Resume
 [Download My Resume](Eric_Voong_Resume.pdf)
