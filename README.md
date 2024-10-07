@@ -14,6 +14,8 @@ Welcome to my GitHub profile! I'm a data scientist and software developer with a
 
 ### 🌟 **Notable Projects**
 
+📊 Check out my repositories for projects involving machine learning, NLP, web scraping, and more!
+
 #### [**Patent Landscape Visualization**](https://ised-isde.canada.ca/site/canadian-intellectual-property-office/sites/default/files/attachments/2022/CIPOCS-1912-CPLFPMT-eng.pdf#page=29)
 - Developed a patent landscape tool using **machine learning** and **NLP techniques** like **TF-IDF**, **Principal Directional Analysis (PDA)**, and **Sentence Transformers** to extract and analyze key trends from patent data. This project improved trend analysis accuracy by 60% and was presented to the Canadian Intellectual Property Office.
 
@@ -25,6 +27,7 @@ Welcome to my GitHub profile! I'm a data scientist and software developer with a
 
 #### [**Huffman Coding Algorithm**](https://github.com/evoong/Huffman)
 - Implemented a **Huffman coding algorithm** in **Java** to optimize data storage and transmission. This project achieved a 50% reduction in file size while maintaining data integrity.
+
 
 ---
 
@@ -58,8 +61,7 @@ January 2020 - August 2020
 - Created data-driven marketing reports with **Tableau** and **Looker**, increasing campaign efficiency by 20%
 
 ---
-📊 Check out my repositories for projects involving machine learning, NLP, web scraping, and more!
 
-I’m excited to share my projects with you! Feel free to explore my repositories, and don't hesitate to reach out if you're interested in collaborating or discussing potential opportunities.
+Don't hesitate to reach out if you're interested in collaborating or discussing potential opportunities.
 
 📄 [Download My Resume](Eric_Voong_Resume.pdf)
