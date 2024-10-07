@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a data scientist and software developer with a
 ### 💻 **Technical Skills**
 - **Languages**: Python, Java, SQL, R, MATLAB, JavaScript, Bash, HTML/CSS, C/C++, Assembly
 - **Tools & Technologies**: AWS, GCP, Kubernetes, Docker, Jupyter Notebook, Tableau, Looker, Power BI, Git, Linux/Unix
-- **Specialties**: Machine Learning, NLP, Data Visualization, Software Development, ETL, CI/CD
+- **Specialties**:  Software Development, Data Science, Data Analytics, Data Engineering
 
 🔍 Currently exploring opportunities in data science, analytics, and engineering, and always open to collaborating on interesting projects.
 
