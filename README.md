@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a data scientist and software developer with a
 
 ### 🌟 **Notable Projects**
 
-#### **Patent Landscape Visualization**
+#### [**Patent Landscape Visualization**](https://ised-isde.canada.ca/site/canadian-intellectual-property-office/sites/default/files/attachments/2022/CIPOCS-1912-CPLFPMT-eng.pdf#page=29)
 - Developed a patent landscape tool using **machine learning** and **NLP techniques** like **TF-IDF**, **Principal Directional Analysis (PDA)**, and **Sentence Transformers** to extract and analyze key trends from patent data. This project improved trend analysis accuracy by 60% and was presented to the Canadian Intellectual Property Office.
 
 #### [**Ticket Show & Artist Social Media Web Scraper**](https://github.com/evoong/Stubhub-Tracker)
