@@ -31,16 +31,16 @@ Welcome to my GitHub profile! I'm a data scientist and software developer with a
 ### 📈 **Professional Experience**
 
 <a href="https://www.ic.gc.ca/">
-  <img src="https://www.innovationgrowthlab.org/sites/default/files/ISED-ISDE-55e.jpg" alt="ISED Logo" width="30">
+  <img src="https://www.innovationgrowthlab.org/sites/default/files/ISED-ISDE-55e.jpg" alt="ISED Logo" width="550">
 </a>  
 
-**Data Scientist** 
-May 2022 - April 2024  
+**Data Scientist**  
+May 2022 - April 2024
 - Developed metrics and visualizations to enhance research reports using **Pandas**, **NumPy**, **PyTorch**, and **TensorFlow**
 - Built robust data cleaning scripts, improving data quality by 70%, and categorized unstructured data through machine learning algorithms, boosting visualization accuracy by 30%
 
 <a href="https://www.opentext.com/">
-  <img src="https://s3.amazonaws.com/cmscritic.mediasite.org/assets/products/opentext/logo-665691049555.png?v=1684768305848" alt="OpenText Logo" width="30">
+  <img src="https://s3.amazonaws.com/cmscritic.mediasite.org/assets/products/opentext/logo-665691049555.png?v=1684768305848" alt="OpenText Logo" width="60">
 </a>  
 
 **Software Developer**  
