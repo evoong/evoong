@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a data scientist and software developer with a
 
 ### 🌟 **Notable Projects**
 
-#### **Patent Landscape Visualization**
+#### **[Patent Landscape Visualization](https://github.com/evoong/Reliable-File-Transfer-Protocol-over-UDP)**
 - Developed a patent landscape tool using **machine learning** and **NLP techniques** like **TF-IDF**, **Principal Directional Analysis (PDA)**, and **Sentence Transformers** to extract and analyze key trends from patent data. This project improved trend analysis accuracy by 60% and was presented to the Canadian Intellectual Property Office.
 
 #### **Ticket Show & Artist Social Media Web Scraper**
