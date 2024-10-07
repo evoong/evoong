@@ -60,5 +60,6 @@ January 2020 - August 2020
 ---
 📊 Check out my repositories for projects involving machine learning, NLP, web scraping, and more!
 
+I’m excited to share my projects with you! Feel free to explore my repositories, and don't hesitate to reach out if you're interested in collaborating or discussing potential opportunities.
 
 📄 [Download My Resume](Eric_Voong_Resume.pdf)
