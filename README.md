@@ -43,7 +43,9 @@ May 2021 - August 2021
 - Contributed to the CI/CD process for a remote desktop access solution, reducing deployment time by 20%
 - Optimized application performance by 25% for NVIDIA hardware and resolved critical bugs, enhancing user satisfaction by 15%
 
-[![Bell Media Logo](https://seeklogo.com/images/B/Bell_Canada-logo-F3FBD37116-seeklogo.com.png)](https://www.bellmedia.ca/ | width =30)  
+<a href="https://www.bellmedia.ca/">
+  <img src="https://seeklogo.com/images/B/Bell_Canada-logo-F3FBD37116-seeklogo.com.png" alt="Bell Media Logo" width="30">
+</a>
 
 **Data Analyst**  
 [*Bell Media*](https://www.bellmedia.ca/) 
