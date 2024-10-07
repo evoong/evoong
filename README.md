@@ -30,7 +30,8 @@ Welcome to my GitHub profile! I'm a data scientist and software developer with a
 
 ### 📈 **Professional Experience**
 
-**Data Scientist**  
+**Data Scientist** 
+[![ISED Logo](https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Innovation%2C_Science_and_Economic_Development_Canada_logo.png/150px-Innovation%2C_Science_and_Economic_Development_Canada_logo.png)](https://www.ic.gc.ca/)  
 [*Innovation Science and Economic Development Canada*](https://ised-isde.canada.ca/site/ised/en)
 May 2022 - April 2024  
 - Developed metrics and visualizations to enhance research reports using **Pandas**, **NumPy**, **PyTorch**, and **TensorFlow**
