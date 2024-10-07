@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a data scientist and software developer with a
 ### 📈 **Professional Experience**
 
 <a href="https://www.ic.gc.ca/">
-  <img src="https://multitech.com/wp-content/uploads/elementor/thumbs/ISED-logo-1-qayo4f8vueayvt9zngacnocm84iwd4lyfhev4yvrpc.webp" alt="ISED Logo" width="30">
+  <img src="https://www.innovationgrowthlab.org/sites/default/files/ISED-ISDE-55e.jpg" alt="ISED Logo" width="30">
 </a>  
 
 **Data Scientist** 
