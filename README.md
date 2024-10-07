@@ -17,13 +17,13 @@ Welcome to my GitHub profile! I'm a data scientist and software developer with a
 #### **Patent Landscape Visualization**
 - Developed a patent landscape tool using **machine learning** and **NLP techniques** like **TF-IDF**, **Principal Directional Analysis (PDA)**, and **Sentence Transformers** to extract and analyze key trends from patent data. This project improved trend analysis accuracy by 60% and was presented to the Canadian Intellectual Property Office.
 
-#### **Ticket Show & Artist Social Media Web Scraper**
+#### [**Ticket Show & Artist Social Media Web Scraper**](https://github.com/evoong/Stubhub-Tracker)
 - Created a web scraper using **Python** and **Selenium** to automate the extraction of ticket prices, event details, and artist social media statistics. The scraper is designed for accurate, dynamic content handling and schedules data collection at regular intervals for continuous analysis.
 
 #### [**Reliable File Transfer Protocol over UDP**](https://github.com/evoong/Reliable-File-Transfer-Protocol-over-UDP)
 - Designed a custom protocol for reliable file transfer over UDP in **Python**. This protocol includes error detection and correction mechanisms, achieving a 70% improvement in transfer reliability, even under high-noise conditions.
 
-#### **Huffman Coding Algorithm**
+#### [**Huffman Coding Algorithm**](https://github.com/evoong/Huffman)
 - Implemented a **Huffman coding algorithm** in **Java** to optimize data storage and transmission. This project achieved a 50% reduction in file size while maintaining data integrity.
 
 ---
