@@ -31,19 +31,19 @@ Welcome to my GitHub profile! I'm a data scientist and software developer with a
 ### 📈 **Professional Experience**
 
 **Data Scientist**  
-*Innovation Science and Economic Development Canada*  
+[*Innovation Science and Economic Development Canada*](https://ised-isde.canada.ca/site/ised/en)
 May 2022 - April 2024  
 - Developed metrics and visualizations to enhance research reports using **Pandas**, **NumPy**, **PyTorch**, and **TensorFlow**
 - Built robust data cleaning scripts, improving data quality by 70%, and categorized unstructured data through machine learning algorithms, boosting visualization accuracy by 30%
 
 **Software Developer**  
-*OpenText*  
+[*OpenText*] (https://www.opentext.com/) 
 May 2021 - August 2021  
 - Contributed to the CI/CD process for a remote desktop access solution, reducing deployment time by 20%
 - Optimized application performance by 25% for NVIDIA hardware and resolved critical bugs, enhancing user satisfaction by 15%
 
 **Data Analyst**  
-*Bell Media*  
+[*Bell Media*] (https://www.bellmedia.ca/) 
 January 2020 - August 2020  
 - Deployed ETL pipelines and automation workflows in **SQL** on GCP, reducing operational time by 25%
 - Created data-driven marketing reports with **Tableau** and **Looker**, increasing campaign efficiency by 20%
