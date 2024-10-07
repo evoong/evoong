@@ -30,25 +30,28 @@ Welcome to my GitHub profile! I'm a data scientist and software developer with a
 
 ### 📈 **Professional Experience**
 
+<a href="https://www.ic.gc.ca/">
+  <img src="https://multitech.com/wp-content/uploads/elementor/thumbs/ISED-logo-1-qayo4f8vueayvt9zngacnocm84iwd4lyfhev4yvrpc.webp" alt="ISED Logo" width="30">
+</a>  
+
 **Data Scientist** 
-[![ISED Logo](https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Innovation%2C_Science_and_Economic_Development_Canada_logo.png/150px-Innovation%2C_Science_and_Economic_Development_Canada_logo.png)](https://www.ic.gc.ca/)  
-[*Innovation Science and Economic Development Canada*](https://ised-isde.canada.ca/site/ised/en)
 May 2022 - April 2024  
 - Developed metrics and visualizations to enhance research reports using **Pandas**, **NumPy**, **PyTorch**, and **TensorFlow**
 - Built robust data cleaning scripts, improving data quality by 70%, and categorized unstructured data through machine learning algorithms, boosting visualization accuracy by 30%
 
+<a href="https://www.opentext.com/">
+  <img src="https://s3.amazonaws.com/cmscritic.mediasite.org/assets/products/opentext/logo-665691049555.png?v=1684768305848" alt="OpenText Logo" width="30">
+</a>  
+
 **Software Developer**  
-[*OpenText*](https://www.opentext.com/) 
 May 2021 - August 2021  
 - Contributed to the CI/CD process for a remote desktop access solution, reducing deployment time by 20%
 - Optimized application performance by 25% for NVIDIA hardware and resolved critical bugs, enhancing user satisfaction by 15%
 
-
-
-
 <a href="https://www.bellmedia.ca/">
-  <img src="https://seeklogo.com/images/B/Bell_Canada-logo-F3FBD37116-seeklogo.com.png" alt="Bell Media Logo" width="30">
+  <img src="https://seeklogo.com/images/B/Bell_Canada-logo-F3FBD37116-seeklogo.com.png" alt="Bell Media Logo" width="30" style="vertical-align: middle;">
 </a> 
+
 **Data Analyst**  
 January 2020 - August 2020  
 - Deployed ETL pipelines and automation workflows in **SQL** on GCP, reducing operational time by 25%
