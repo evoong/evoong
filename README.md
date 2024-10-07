@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a data scientist and software developer with a
 
 ### 📈 **Professional Experience**
 
-<a href="https://www.ic.gc.ca/">
+<a href="https://ised-isde.canada.ca/site/ised/en">
   <img src="https://www.innovationgrowthlab.org/sites/default/files/ISED-ISDE-55e.jpg" alt="ISED Logo" width="550">
 </a>  
 
