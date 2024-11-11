@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a data scientist and software developer with a
 ---
 
 ### 💻 **Technical Skills**
-- **Languages**: Python, Java, SQL, R, MATLAB, JavaScript, Bash, HTML/CSS, C/C++, Assembly
+- **Languages**: Python, Java, SQL, R, MATLAB, JavaScript, TypeScript, React.js, Ruby, Bash, HTML/CSS, C/C++, Assembly
 - **Tools & Technologies**: AWS, GCP, Kubernetes, Docker, Jupyter Notebook, Tableau, Looker, Power BI, Git, Linux/Unix
 - **Specialties**:  Software Development, Data Science, Data Analytics, Data Engineering
 
