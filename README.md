@@ -19,8 +19,8 @@ Welcome to my GitHub profile! I'm a data scientist and software developer with a
 #### [**Patent Landscape Visualization**](https://ised-isde.canada.ca/site/canadian-intellectual-property-office/sites/default/files/attachments/2022/CIPOCS-1912-CPLFPMT-eng.pdf#page=29)
 - Developed a patent landscape tool using **machine learning** and **NLP techniques** like **TF-IDF**, **Principal Directional Analysis (PDA)**, and **Sentence Transformers** to extract and analyze key trends from patent data. This project improved trend analysis accuracy by 60% and was presented to the Canadian Intellectual Property Office.
 
-#### [**Ticket Show & Artist Social Media Web Scraper**](https://github.com/evoong/Stubhub-Tracker)
-- Created a web scraper using **Python** and **Selenium** to automate the extraction of ticket prices, event details, and artist social media statistics. The scraper is designed for accurate, dynamic content handling and schedules data collection at regular intervals for continuous analysis.
+#### [**Concert Price Predictor**](https://github.com/evoong/Concert-Price-Predictor)
+- Built a concert price prediction tool that scrapes ticket pricing, event details, and artist social media statistics using Selenium and BeautifulSoup. Leveraged scikit-learn to develop a machine learning model with Random Forest Regression to predict concert ticket prices based on gathered data.
 
 #### [**Reliable File Transfer Protocol over UDP**](https://github.com/evoong/Reliable-File-Transfer-Protocol-over-UDP)
 - Designed a custom protocol for reliable file transfer over UDP in **Python**. This protocol includes error detection and correction mechanisms, achieving a 70% improvement in transfer reliability, even under high-noise conditions.
