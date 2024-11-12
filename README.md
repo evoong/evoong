@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a data scientist and software developer with a
 - Designed a custom protocol for reliable file transfer over UDP in **Python**. This protocol includes error detection and correction mechanisms, achieving a 70% improvement in transfer reliability, even under high-noise conditions.
 
 #### [**Huffman Coding Algorithm**](https://github.com/evoong/Huffman)
-- Implemented a **Huffman coding algorithm** in **Java** to optimize data storage and transmission. This project achieved a 50% reduction in file size while maintaining data integrity.
+- Implemented a **Huffman algorithm** in **Java** to optimize data storage and transmission. This project achieved a 50% reduction in file size while maintaining data integrity.
 
 
 ---
